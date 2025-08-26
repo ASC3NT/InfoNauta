@@ -6,3 +6,6 @@
 # Archivos temporales
 bin/
 obj/
+".vs/" 
+"bin/" 
+"obj/" 
